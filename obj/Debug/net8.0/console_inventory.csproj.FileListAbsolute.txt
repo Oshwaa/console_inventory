@@ -12,3 +12,4 @@ C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\refint\console_in
 C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.pdb
 C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.genruntimeconfig.cache
 C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\ref\console_inventory.dll
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.sourcelink.json

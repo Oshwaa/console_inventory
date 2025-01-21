@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to the Inventory Management System!");
+        Console.WriteLine("Console Application Inventory");
 
         while (true)
         {
@@ -44,7 +44,7 @@ class Program
     {
         var inventory = InventoryManager.ViewInventory();
 
-        Console.WriteLine("\n--- Inventory List ---");
+        Console.WriteLine("\n--- Inventory ---");
         if (inventory.Count == 0)
         {
             GetTotalValue();
@@ -61,7 +61,7 @@ class Program
     static void GetTotalValue(){
         try{
             var totaValue = InventoryManager.GetTotalValue();
-            Console.WriteLine($"Inventory tota Value: {totaValue}");
+            Console.WriteLine($"Inventory total Value: {totaValue}");
         }catch(Exception e){
             Console.WriteLine($"Failed to fetch Value: {e.Message}");
         }
