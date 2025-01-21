@@ -10,6 +10,7 @@ class Program
         while (true)
         {
             DisplayInventory();
+            GetTotalValue();
             Console.WriteLine("\n--- Menu ---");
             Console.WriteLine("1. Add Product");
             Console.WriteLine("2. Update Product");
@@ -47,7 +48,6 @@ class Program
         Console.WriteLine("\n--- Inventory ---");
         if (inventory.Count == 0)
         {
-            GetTotalValue();
             Console.WriteLine("Inventory is empty.");
         }
         else
