@@ -1,0 +1,14 @@
+C:\Users\81pm-Guest\Desktop\console_inventory\bin\Debug\net8.0\console_inventory.exe
+C:\Users\81pm-Guest\Desktop\console_inventory\bin\Debug\net8.0\console_inventory.deps.json
+C:\Users\81pm-Guest\Desktop\console_inventory\bin\Debug\net8.0\console_inventory.runtimeconfig.json
+C:\Users\81pm-Guest\Desktop\console_inventory\bin\Debug\net8.0\console_inventory.dll
+C:\Users\81pm-Guest\Desktop\console_inventory\bin\Debug\net8.0\console_inventory.pdb
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.AssemblyInfoInputs.cache
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.AssemblyInfo.cs
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.csproj.CoreCompileInputs.cache
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.dll
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\refint\console_inventory.dll
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.pdb
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\console_inventory.genruntimeconfig.cache
+C:\Users\81pm-Guest\Desktop\console_inventory\obj\Debug\net8.0\ref\console_inventory.dll
